@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d16d80cb-b78e-4d9c-a229-8239c1bdfa77" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/dist/style.e308ff8e.css" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/style.css" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test.js" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1b4DTfBQZJBujPHHvL4IZduV87E" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d16d80cb-b78e-4d9c-a229-8239c1bdfa77" name="Default Changelist" comment="" />
+      <created>1587882481281</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587882481281</updated>
+      <workItem from="1587882484074" duration="26915000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="191" y="236" width="672" height="678" key="search.everywhere.popup" timestamp="1588214568256">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="191" y="236" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1588214568256" />
+  </component>
+</project>
